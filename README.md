@@ -2,7 +2,7 @@
 <h2 align="center">☠️ Hello ☠️ <br>I'm <br>METHUWA</h1>
 <img align="center">
 
-<img align="right" alt="GIF" src="https://i.ibb.co/N9QfW3r/IMG-20220321_WA0127.jpg" width="400"/>
+<img align="right" alt="GIF" src="https://i.ibb.co/pWGbJFL/8ab7c4537509.jpg" width="400"/>
 
 <h7 align="left"><b>Moreover, I am the <i><b>Main Developer</b></i> of the Queen Lisa whatsapp user bot project. <br>🕯️Queen Lisa Bot👸</b></h7>
 
