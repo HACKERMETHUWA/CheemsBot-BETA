@@ -20,6 +20,16 @@
 <p align="left">
 <a href="https://wa.me/94762321886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Methuwa2007" height="30" width="40" /></a>
 </p>
+
+## ` BUILDPACKS`
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+heroku/nodejs
+```
+
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
