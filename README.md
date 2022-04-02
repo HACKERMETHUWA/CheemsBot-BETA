@@ -77,7 +77,7 @@ apt apt install libwebp
 apt apt install imagemagick
 apt install bash
 git clone https://github.com/HACKERMETHUWA/CheemsBot-BETA
-cd CheemsBot-MD
+cd CheemsBot-BETA
 npm start
 ```
 
