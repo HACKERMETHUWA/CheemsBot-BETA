@@ -1,16 +1,16 @@
-# QueenLisa
+#  ©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴇᴛʜᴜᴡᴀ ᴍᴏᴅᴢ
 <h2 align="center">☠️ Hello ☠️ <br>I'm <br>METHUWA</h1>
 <img align="center">
 
 <img align="right" alt="GIF" src="https://i.ibb.co/pWGbJFL/8ab7c4537509.jpg" width="400"/>
 
-<h7 align="left"><b>Moreover, I am the <i><b>Main Developer</b></i> of the Queen Lisa whatsapp user bot project. <br>🕯️Queen Lisa Bot👸</b></h7>
+<h7 align="left"><b>Moreover, I am the <i><b>Main Developer</b></i> of the CheemsBot-BETA whatsapp user bot project. <br>🕯️CheemsBot-BETA👸</b></h7>
 
 
 
-- 🔭 **Ӏ’м ¢υяяєηтℓу working ση** [Queen Lisa Project](https://github.com/HACKERMETHUWA/QueenLisa)
+- 🔭 **Ӏ’м ¢υяяєηтℓу working ση** [CheemsBot-BETA Project](https://github.com/HACKERMETHUWA/CheemsBot-BETA)
 - 🌱 **Ӏ’ɱ ƈʋɾɾҽղƭƖყ Ɩҽąɾղíղɠ** **HTML, Python**
-- 🤖 **ⱭƖƖ օƒ ɱყ ƥɾօᴊҽƈƭʂ ąɾҽ ąⱱąíƖąɓƖҽ ąƭ** > [My Git](https://github.com/HACKERMETHUWA/QueenLisa) <
+- 🤖 **ⱭƖƖ օƒ ɱყ ƥɾօᴊҽƈƭʂ ąɾҽ ąⱱąíƖąɓƖҽ ąƭ** > [My Git](https://github.com/HACKERMETHUWA/CheemsBot-BETA) <
 - 📫 **Ӈօⱳ ƭօ ɾҽąƈɦ ɱҽ** > [Whatsapp](https://wa.me/94762321886) <
 - 📜 **I αм oɴly α developer**
 - ✍️ **เ ค๓ lєคгภเภɠ թг๏ɠгค๓๓เภɠ..**
