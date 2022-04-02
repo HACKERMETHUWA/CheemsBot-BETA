@@ -68,6 +68,25 @@ npm start
 ```
 
 
+## `For VPS`
+```bash
+apt install nodejs 
+apt install git 
+apt apt install ffmpeg 
+apt apt install libwebp 
+apt apt install imagemagick
+apt install bash
+git clone https://github.com/HACKERMETHUWA/CheemsBot-BETA
+cd CheemsBot-MD
+npm start
+```
+
+## `For 24/7 Activation`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
@@ -105,10 +124,6 @@ npm start
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-
-
 
 
 
